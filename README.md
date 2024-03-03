@@ -3,6 +3,7 @@ This project focuses on the cleaning process. The raw dataset can be found here 
 
 This repository includes:
 * **README.md**
+* **LICENSE**
 * **Data Cleaning - CourseraDataset.ipynb**: the Jupiter Notebook file that includes all codes of the cleaning process.
 * **CourseraDataset-Clean.csv**: the cleaned dataset produced from the cleaning process.
 
